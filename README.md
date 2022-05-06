@@ -12,6 +12,9 @@
 
 ## Summary 目录
 
+
+* [Kafka概述](https://developer.huawei.com/consumer/cn/blog/topic/03872088558070088)
+* [快速体验Kafka](https://developer.huawei.com/consumer/cn/blog/topic/03872487899780004)
 * 未完待续...
 
 
