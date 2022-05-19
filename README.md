@@ -15,6 +15,9 @@
 
 * [Kafka概述](https://developer.huawei.com/consumer/cn/blog/topic/03872088558070088)
 * [快速体验Kafka](https://developer.huawei.com/consumer/cn/blog/topic/03872487899780004)
+* [Kafka五个核心API](https://developer.huawei.com/consumer/cn/blog/topic/03872945665960006)
+* [Spring Kafka使用JSON序列化及反序列化](https://developer.huawei.com/consumer/cn/forum/topic/0202883728222590198?fid=23)
+* [Spring Kafka分区的原理及实践](https://developer.huawei.com/consumer/cn/forum/topic/0201883729015070174?fid=23)
 * 未完待续...
 
 
