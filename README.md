@@ -18,6 +18,7 @@
 * [Kafka五个核心API](https://developer.huawei.com/consumer/cn/blog/topic/03872945665960006)
 * [Kafka配置之Broker配置(1)](https://developer.huawei.com/consumer/cn/forum/topic/0202888066890040287?fid=23)
 * [Kafka配置之Broker配置(2)](https://developer.huawei.com/consumer/cn/forum/topic/0202888067238010288?fid=23)
+* [Kafka配置之Topic配置](https://developer.huawei.com/consumer/cn/forum/topic/0202892848217480397?fid=23)
 * [Spring Kafka使用JSON序列化及反序列化](https://developer.huawei.com/consumer/cn/forum/topic/0202883728222590198?fid=23)
 * [Spring Kafka分区的原理及实践](https://developer.huawei.com/consumer/cn/forum/topic/0201883729015070174?fid=23)
 * 未完待续...
