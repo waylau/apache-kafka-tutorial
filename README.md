@@ -24,6 +24,7 @@
 * [Kafka配置之Kafka连接配置](https://developer.huawei.com/consumer/cn/forum/topic/0202892848217480397?fid=23)
 * [Kafka配置之Kafka流配置](https://developer.huawei.com/consumer/cn/blog/topic/03894959947920078)
 * [Kafka配置之管理配置](https://developer.huawei.com/consumer/cn/blog/topic/03894960793240079)
+* [Kafka设计原理之动机](https://developer.huawei.com/consumer/cn/blog/topic/03904940792480077)
 * [Spring Kafka使用JSON序列化及反序列化](https://developer.huawei.com/consumer/cn/forum/topic/0202883728222590198?fid=23)
 * [Spring Kafka分区的原理及实践](https://developer.huawei.com/consumer/cn/forum/topic/0201883729015070174?fid=23)
 * 未完待续...
