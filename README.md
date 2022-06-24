@@ -30,6 +30,8 @@
 * [Kafka设计原理之生产者](https://developer.huawei.com/consumer/cn/blog/topic/03908586631650119)
 * [Kafka设计原理之消费者](https://developer.huawei.com/consumer/cn/blog/topic/03911823255370132)
 * [Kafka设计原理之消息传递语义原创](https://developer.huawei.com/consumer/cn/blog/topic/03912690198990147)
+* [Kafka设计原理之复制](https://developer.huawei.com/consumer/cn/blog/topic/03913605444470156)
+* [Kafka设计原理之日志压缩](https://developer.huawei.com/consumer/cn/blog//topic/03914422419170144)
 * [Spring Kafka使用JSON序列化及反序列化](https://developer.huawei.com/consumer/cn/forum/topic/0202883728222590198?fid=23)
 * [Spring Kafka分区的原理及实践](https://developer.huawei.com/consumer/cn/forum/topic/0201883729015070174?fid=23)
 * 未完待续...
