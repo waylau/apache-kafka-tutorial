@@ -57,6 +57,9 @@
 * [Kafka操作之硬件和操作系统](https://developer.huawei.com/consumer/cn/blog/topic/03927766536280219)
 * [Kafka操作之监控](https://developer.huawei.com/consumer/cn/blog/topic/03929110799170221)
 * [Kafka操作之ZooKeeper](https://developer.huawei.com/consumer/cn/blog/topic/03929356426670230)
+* [Kafka安全之安全概述](https://developer.huawei.com/consumer/cn/blog/topic/03930080099880231)
+* [Kafka安全之使用SSL加密和身份验证——为每个Kafka broker生成SSL密钥和证书](https://developer.huawei.com/consumer/cn/blog/topic/03930930187000225)
+* [Kafka安全之使用SSL加密和身份验证——创建自己的CA](https://developer.huawei.com/consumer/cn/blog/topic/03931160428840228)
 * [Spring Kafka使用JSON序列化及反序列化](https://developer.huawei.com/consumer/cn/forum/topic/0202883728222590198?fid=23)
 * [Spring Kafka分区的原理及实践](https://developer.huawei.com/consumer/cn/forum/topic/0201883729015070174?fid=23)
 * 未完待续...
