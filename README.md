@@ -60,6 +60,12 @@
 * [Kafka安全之安全概述](https://developer.huawei.com/consumer/cn/blog/topic/03930080099880231)
 * [Kafka安全之使用SSL加密和身份验证——为每个Kafka broker生成SSL密钥和证书](https://developer.huawei.com/consumer/cn/blog/topic/03930930187000225)
 * [Kafka安全之使用SSL加密和身份验证——创建自己的CA](https://developer.huawei.com/consumer/cn/blog/topic/03931160428840228)
+* [Kafka安全之使用SSL加密和身份验证——签署证书](https://developer.huawei.com/consumer/cn/blog/topic/03931696479770229)
+* [Kafka安全之使用SSL加密和身份验证——生产中常见的陷阱](https://developer.huawei.com/consumer/cn/blog/topic/03931802053740230)
+* [Kafka安全之使用SSL加密和身份验证——配置Kafka Broker](https://developer.huawei.com/consumer/cn/blog/topic/03931978672190245)
+* [Kafka安全之使用SSL加密和身份验证——配置Kafka客户端](https://developer.huawei.com/consumer/cn/blog/topic/03932023359880247)
+* [Kafka安全之使用SASL进行身份验证——JAAS配置](https://developer.huawei.com/consumer/cn/blog/topic/03932810996910240)
+* [Kafka安全之使用SASL进行身份验证——SASL配置](https://developer.huawei.com/consumer/cn/blog/topic/03932865925920243)
 * [Spring Kafka使用JSON序列化及反序列化](https://developer.huawei.com/consumer/cn/forum/topic/0202883728222590198?fid=23)
 * [Spring Kafka分区的原理及实践](https://developer.huawei.com/consumer/cn/forum/topic/0201883729015070174?fid=23)
 * 未完待续...
