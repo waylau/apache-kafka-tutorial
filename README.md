@@ -6,7 +6,7 @@
 
 
 
-《跟老卫学Apache Kafka开发》是一本 Apache Kafka 应用开发的开源学习教程，主要介绍如何从0开始开发 Apache Kafka 应用。本书包括最新版本 Apache Kafka 3.x 中的新特性。图文并茂，并通过大量实例带你走近 Apache Kafka 的世界！
+《跟老卫学Apache Kafka开发》是一本 [Apache Kafka](https://kafka.apache.org/) 应用开发的开源学习教程，主要介绍如何从0开始开发 Apache Kafka 应用。本书包括最新版本 Apache Kafka 3.x 中的新特性。图文并茂，并通过大量实例带你走近 Apache Kafka 的世界！
 
 本书业余时间所著，水平有限、时间紧张，难免疏漏，欢迎指正，
 
@@ -85,6 +85,7 @@
 * [Kafka Connect之用户指南——Connect中的错误报告](https://developer.huawei.com/consumer/cn/blog/topic/03942933837070298)
 * [Kafka Connect之连接器开发指南——核心概念和API](https://developer.huawei.com/consumer/cn/blog/topic/03943329923020301)
 * [Kafka Connect之连接器开发指南——开发一个简单的连接器](https://developer.huawei.com/consumer/cn/blog/topic/03943797106960302)
+* [Kafka Connect之连接器开发指南——动态输入/输出流](https://developer.huawei.com/consumer/cn/blog/topic/03944656709720316)
 * [Spring Kafka使用JSON序列化及反序列化](https://developer.huawei.com/consumer/cn/forum/topic/0202883728222590198?fid=23)
 * [Spring Kafka分区的原理及实践](https://developer.huawei.com/consumer/cn/forum/topic/0201883729015070174?fid=23)
 * 未完待续...
