@@ -86,6 +86,10 @@
 * [Kafka Connect之连接器开发指南——核心概念和API](https://developer.huawei.com/consumer/cn/blog/topic/03943329923020301)
 * [Kafka Connect之连接器开发指南——开发一个简单的连接器](https://developer.huawei.com/consumer/cn/blog/topic/03943797106960302)
 * [Kafka Connect之连接器开发指南——动态输入/输出流](https://developer.huawei.com/consumer/cn/blog/topic/03944656709720316)
+* [Kafka Connect之连接器开发指南——连接配置验证](https://developer.huawei.com/consumer/cn/blog/topic/03948167117520341)
+* [Kafka Connect之连接器开发指南——使用架构](https://developer.huawei.com/consumer/cn/blog/topic/03948434634270346)
+* [Kafka Connect之连接器开发指南——Kafka连接管理](https://developer.huawei.com/consumer/cn/blog/topic/03948992022190348)
+* [Kafka Streams之为什么你会喜欢使用Kafka Streams](https://developer.huawei.com/consumer/cn/blog/topic/03949271236280350)
 * [Spring Kafka使用JSON序列化及反序列化](https://developer.huawei.com/consumer/cn/forum/topic/0202883728222590198?fid=23)
 * [Spring Kafka分区的原理及实践](https://developer.huawei.com/consumer/cn/forum/topic/0201883729015070174?fid=23)
 * 未完待续...
