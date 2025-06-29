@@ -6,7 +6,7 @@
 
 
 
-《跟老卫学Apache Kafka开发》是一本 [Apache Kafka](https://kafka.apache.org/) 应用开发的开源学习教程，主要介绍如何从0开始开发 Apache Kafka 应用。本书包括最新版本 Apache Kafka 3.x 中的新特性。图文并茂，并通过大量实例带你走近 Apache Kafka 的世界！
+《跟老卫学Apache Kafka开发》是一本 [Apache Kafka](https://kafka.apache.org/) 应用开发的开源学习教程，主要介绍如何从0开始开发 Apache Kafka 应用。本书包括最新版本 Apache Kafka 4.x 中的新特性。图文并茂，并通过大量实例带你走近 Apache Kafka 的世界！
 
 本书业余时间所著，水平有限、时间紧张，难免疏漏，欢迎指正，
 
