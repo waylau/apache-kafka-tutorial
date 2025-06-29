@@ -92,6 +92,7 @@
 * [Kafka Streams之为什么你会喜欢使用Kafka Streams](https://developer.huawei.com/consumer/cn/blog/topic/03949271236280350)
 * [Spring Kafka使用JSON序列化及反序列化](https://developer.huawei.com/consumer/cn/forum/topic/0202883728222590198?fid=23)
 * [Spring Kafka分区的原理及实践](https://developer.huawei.com/consumer/cn/forum/topic/0201883729015070174?fid=23)
+* [Apache Kafka 4.0在Windows下的安装与使用](https://waylau.com/installation-and-use-of-apache-kafka-4-on-windows/)
 * 未完待续...
 
 
